@@ -4,9 +4,9 @@ Es una plataforma digital diseñada para modernizar y organizar el transporte ru
 Actúa como el puente digital entre conductores y pasajeros, resolviendo problemas críticos de aislamiento, esperas inciertas 
 y desorganización mediante una infraestructura tecnológica accesible y eficiente.
 
-<div align="center">
+<div align="center" border="1px">
 
-## 🚀 [Visita nuestra Landing Page oficial aquí](https://grupo-apps-moviles.github.io/landing-page/)
+## 🚀 [Ingresar App](https://grupo-apps-moviles.github.io/landing-page/)
 
 </div>
 
